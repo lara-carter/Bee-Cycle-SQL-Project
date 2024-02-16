@@ -2,8 +2,8 @@
 
 ### Contents of Repository
 * A data dictionary containing a description of the data can be found [here.](https://github.com/lara-carter/Bee-Cycle-SQL-Project/blob/main/Data%20Dictionary.pdf)
-* SQL queries used in data cleaning can be found [here.](https://github.com/lara-carter/Bee-Cycle-SQL-Project/blob/main/SQL_Queries_for_Data_Cleaning.ipynb)
-* SQL queries used in data analysis can be found [here.](https://github.com/lara-carter/Bee-Cycle-SQL-Project/blob/main/SQL_Queries_for_Data_Analysis.ipynb)
+* SQL queries used in data cleaning can be found [here.](https://github.com/lara-carter/Bee-Cycle-SQL-Project/blob/main/SQL%20Queries%20for%20Data%20Cleaning.ipynb)
+* SQL queries used in data analysis can be found [here.](https://github.com/lara-carter/Bee-Cycle-SQL-Project/blob/main/SQL%20Queries%20for%20Data%20Analysis.ipynb)
 * The final presentation for this project can be found [here.](https://github.com/lara-carter/Bee-Cycle-SQL-Project/blob/main/Bee%20Cycle%20Project%20Presentation.pdf) This presentation contains a full project summary, description about the data and project process, visualisations and recommendations for the marketing team.
 
 <br>
