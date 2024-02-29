@@ -1,12 +1,12 @@
 # Bee Cycle SQL Project
 
-### Contents of Repository
-* A data dictionary containing a description of the data can be found [here.](https://github.com/lara-carter/Bee-Cycle-SQL-Project/blob/main/Data%20Dictionary.pdf)
-* SQL queries used in data cleaning can be found [here.](https://github.com/lara-carter/Bee-Cycle-SQL-Project/blob/main/SQL%20Queries%20for%20Data%20Cleaning.ipynb)
-* SQL queries used in data analysis can be found [here.](https://github.com/lara-carter/Bee-Cycle-SQL-Project/blob/main/SQL%20Queries%20for%20Data%20Analysis.ipynb)
-* The final presentation for this project can be found [here.](https://github.com/lara-carter/Bee-Cycle-SQL-Project/blob/main/Bee%20Cycle%20Project%20Presentation.pdf) This presentation contains a full project summary, description about the data and project process, visualisations and recommendations for the marketing team.
-
 <br>
+
+## Contents of Repository
+1) A data dictionary containing a description of the data can be found [here.](https://github.com/lara-carter/Bee-Cycle-SQL-Project/blob/main/Data%20Dictionary.pdf)
+2) SQL queries used in data cleaning can be found [here.](https://github.com/lara-carter/Bee-Cycle-SQL-Project/blob/main/SQL%20Queries%20for%20Data%20Cleaning.ipynb)
+3) SQL queries used in data analysis can be found [here.](https://github.com/lara-carter/Bee-Cycle-SQL-Project/blob/main/SQL%20Queries%20for%20Data%20Analysis.ipynb)
+4) The final presentation for this project can be found [here.](https://github.com/lara-carter/Bee-Cycle-SQL-Project/blob/main/Bee%20Cycle%20Project%20Presentation.pdf) This presentation contains a full project summary, description about the data and project process, visualisations and recommendations for the marketing team.
 
 ## Context
 Bee Cycle is a fictitious cycling company that opened in July 2017 and sells a range of cycling products in stores across the globe. Since the COVID-19 pandemic, Bee Cycle has started to suffer a decline in profits.
@@ -24,6 +24,7 @@ Bee Cycle has asked you to provide data driven insights to help advise the marke
 
 ## Data Used
 5 datasets were used for this analysis. All data is fictitious and was retrieved from [this public repository](https://github.com/yodialfa/bigQuery-BeeCycle). 
+
 
 The entity relationship diagram below shows the variables in each dataset and describes the relations between the 5 tables:
 
